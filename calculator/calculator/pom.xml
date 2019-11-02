@@ -15,12 +15,6 @@
   </properties>
 
   <dependencies>
-  <dependency>
-      <!-- https://mvnrepository.com/artifact/net.objecthunter/exp4j -->
-    <groupId>net.objecthunter</groupId>
-    <artifactId>exp4j</artifactId>
-    <version>0.4.8</version>
-    </dependency>
      <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
